@@ -1,5 +1,6 @@
 # omarchy-setup
 
+```bash
 omarchy-theme-install https://github.com/Johnyyd/omarchy-cyberpunk-edgerunners-theme
 omarchy plugin add https://github.com/Majkelll/omarchy-docker.git --enable
 omarchy plugin add https://github.com/avillagran/omarchy-control-panel
@@ -20,6 +21,6 @@ omarchy plugin add https://github.com/SirJul1337/omarchy-lock-explorer.git --ena
 omarchy plugin add https://github.com/jankeesvw/omarchy-notification-center.git --enable
 omarchy plugin add https://github.com/RandaZraik/omarchy-xray --enable
 
-
 omarchy restart shell
 omarchy-shell lock explore
+```
